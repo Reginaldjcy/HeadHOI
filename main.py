@@ -172,7 +172,7 @@ if __name__ == '__main__':
 
     parser.add_argument('--port', default='1234', type=str)
     parser.add_argument('--seed', default=140, type=int)
-    parser.add_argument('--world-size', default=8, type=int)
+    parser.add_argument('--world-size', default=1, type=int)
     parser.add_argument('--eval', action='store_true')
     parser.add_argument('--cache', action='store_true')
     parser.add_argument('--sanity', action='store_true')

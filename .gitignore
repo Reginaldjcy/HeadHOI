@@ -131,3 +131,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dataset
+hicodet/hico_20160224_det
+checkpoints

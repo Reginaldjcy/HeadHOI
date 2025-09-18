@@ -13,3 +13,6 @@
 [submodule "h-detr"]
 	path = h_detr
 	url = https://github.com/fredzzhang/h-detr.git
+[submodule "deep-head-pose"]
+	path = deep-head-pose
+	url = https://github.com/natanielruiz/deep-head-pose.git
